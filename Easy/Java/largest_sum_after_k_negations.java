@@ -1,7 +1,5 @@
 //package easy;
 
-import java.util.Arrays;
-
 /*
  * https://leetcode.com/problems/maximize-sum-of-array-after-k-negations/
  * Given an array A of integers, we must modify the array in the following way: 
@@ -15,7 +13,7 @@ import java.util.Arrays;
  * 
  */
 
-public class largestSumAfterKNegations {
+public class largest_sum_after_k_negations {
 
 	public static void main(String[] args) {
 		
